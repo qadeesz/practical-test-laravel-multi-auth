@@ -4,6 +4,7 @@
 
 ## Laravel Version 10.10
 
+### php artisan migrate db:seed
 
 ## Credentials
 - ### Admin

@@ -1,7 +1,7 @@
 <x-admin-layout>
     <x-slot name="header">
         <h2 class="font-semibold text-xl text-gray-800 leading-tight">
-            {{ __('Admin Dashboard') }} - {{ auth()->guard('admin')->user()->name }}
+            {{ __('Dashboard') }} - {{ auth()->guard('admin')->user()->name }}
         </h2>
     </x-slot>
 
